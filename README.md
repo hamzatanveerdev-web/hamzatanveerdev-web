@@ -19,10 +19,17 @@ I build real-world web applications and enjoy learning new technologies.
 
 ---
 
-### 🔥 Featured Projects
-- 💰 Finance / Expense Tracker App  
-- 🔎 QuickAi
-- 🍕 Pizza Shop Web App  
+## 🚀 My Projects
+
+<p align="center">
+  <a href="https://github.com/hamzatanveerdev-web/project1" target="_blank">
+    <img src="https://via.placeholder.com/200x120.png?text=Project+1" alt="Project 1" />
+  </a>
+  <a href="https://github.com/hamzatanveerdev-web/project2" target="_blank">
+    <img src="https://via.placeholder.com/200x120.png?text=Project+2" alt="Project 2" />
+  </a>
+</p>
+
 
 ---
 ### 🧑‍💻 Languages & Tools
