@@ -1,7 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&center=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Hamza+Tanveer;Full+Stack+Developer&repeat=true)
 
-### 📫 Connect with me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/hamzatanveer03/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
