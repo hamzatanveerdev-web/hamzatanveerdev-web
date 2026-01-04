@@ -22,7 +22,7 @@ I build real-world web applications and enjoy learning new technologies.
 ## 🚀 My Projects
 
 <p align="center">
-  <a href="https://github.com/hamzatanveerdev-web/project1" target="_blank">
+  <a href=(https://quickai-mu.vercel.app/)" target="_blank">
     <img src="https://via.placeholder.com/200x120.png?text=Project+1" alt="Project 1" />
   </a>
   <a href="https://github.com/hamzatanveerdev-web/project2" target="_blank">
