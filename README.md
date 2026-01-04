@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&width=450&lines=Hi+there;I'm+Hamza+Tanveer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Hamza+Tanveer;Full+Stack+Developer&repeat=true)
+
 
 
 🚀 Full Stack Web Developer (MERN Stack)  
