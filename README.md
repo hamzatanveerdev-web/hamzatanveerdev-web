@@ -1,4 +1,7 @@
-## Hi 👋 I'm Hamza Tanveer
+Welcome to my GitHub profile! I am a Full Stack Developer and love building projects in MERN Stack.
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50" alt="waving hand"/>
+
 
 🚀 Full Stack Web Developer (MERN Stack)  
 💻 React | Express.js| Node.js | MongoDB | SQL  
