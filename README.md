@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi 👋 I'm Hamza Tanveer
 
-<!--
-**hamzatanveerdev-web/hamzatanveerdev-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Web Developer (MERN Stack)  
+💻 React | Express.js| Node.js | MongoDB | SQL  
 
-Here are some ideas to get you started:
+I build real-world web applications and enjoy learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 Featured Projects
+- 💰 Finance / Expense Tracker App  
+- 🔎 QuickAi
+- 🍕 Pizza Shop Web App  
+
+---
+
+### 🛠 Tech Stack
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Node.js, Express
+- Database: MongoDB, SQL
+- Tools: Git, GitHub
+
+---
+
+### 📫 Contact Me
+-https://github.com/hamzatanveerdev-web
+- LinkedIn: https://www.linkedin.com/in/hamzatanveer03/
+- Email: hamza.tanveer.dev@gmail.com
