@@ -26,8 +26,8 @@ I build real-world web applications and enjoy learning new technologies.
     <img src="https://via.placeholder.com/200x120.png?text=QuickAI" alt="QuickAI" />
   </a>
 
-  <a href="https://github.com/hamzatanveerdev-web/project2" target="_blank">
-    <img src="https://via.placeholder.com/200x120.png?text=Project+2" alt="Project 2" />
+  <a href="https://urlshort0322.vercel.app/" target="_blank">
+    <img src="https://via.placeholder.com/200x120.png?text=Project+2" alt="url shortener" />
   </a>
 </p>
 
